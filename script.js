@@ -1,4 +1,4 @@
- alert("Hello"); 
+ alert("Hello(newbranch)"); 
     var result = confirm("Are you ready?:)");
     if(result == false){
         alert("Game over"); 
